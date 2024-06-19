@@ -18,22 +18,18 @@ Here's a rephrased version of the key components of an e-commerce project:
 - **Internal Linking**: Offering quick access to related pages like the shopping cart, company background, and support options.
 - **Cart Functionality**: Allowing users to easily add items to their shopping cart during exploration.
 
-#### 3. **Company Profile**
 
-- **Business Narrative**: Sharing the story behind the company, encompassing its journey, aspirations, accomplishments, and future plans.
-- **In-depth Insights**: Including sub-pages for further details on various facets of the business.
-
-#### 4. **Shopping Cart**
+#### 3. **Shopping Cart**
 
 - **Item Addition**: Enables users to select and accumulate products they wish to buy.
 - **Transaction Handling**: Incorporates payment processing solutions such as Shopify Payments or PayPal for secure transactions.
 
-#### 5. **Checkout Process**
+#### 4. **Checkout Process**
 
 - **Customer Interaction**: Provides essential contact information like location, phone numbers, and fax, along with a convenient contact form.
 - **Data Protection**: Features a privacy policy section explaining the handling and safeguarding of customer information.
 
-#### 6. **Order Tracking**
+#### 5. **Order Tracking**
 
 - **Historical Orders**: Allows viewing of past and current orders, facilitating easy tracking and updates on product status.
 
