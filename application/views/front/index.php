@@ -119,7 +119,7 @@
                   <div class="col">
                      <div class="tp-product-category-item text-center mb-40">
                         <div class="tp-product-category-thumb fix">
-                           <a href="shop-category.html">
+                           <a href="javascript:void(0)">
                               <img src="uploads/<?= $cat->Cat_image?>" alt="product-category">
                            </a>
                         </div>
